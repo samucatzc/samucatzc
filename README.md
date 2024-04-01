@@ -1,6 +1,6 @@
 Olá sou o Samuel Carlos ✌️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carlos-de-souza-a328851a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carlos-de-souza-5694612b6/)
 
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=samucatzc&show_icons=true&theme=dracula)
